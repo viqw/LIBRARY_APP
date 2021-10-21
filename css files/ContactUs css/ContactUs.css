@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #2e3191;
+    margin: 0;
+    padding: 0;
+}
+
+.whitelogo{
+    width:200px;
+}
+
+h1{
+    display: inline-flex;
+    margin-left: 17em;
+    color:#fff;
+}
+
